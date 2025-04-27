@@ -1,8 +1,8 @@
 .config for macos
 <br>
-nvim as text editor
+1 => nvim as text editor
 <br>
-tmux for terminal multiplexer
+2 => tmux for terminal multiplexer
 <br>
-aersospace and hammerspoon for tiling window on macos
+3 => aersospace and hammerspoon for tiling window on macos
 <br>
